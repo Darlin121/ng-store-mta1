@@ -1,11 +1,11 @@
 [
   {
-    "id": "[NG]AC",
+    "id": "NG_AC",
     "name": "NG AC",
     "price": 25,
     "currency": "USD",
     "description": "[NG]AC EL MEJOR ANTICHEAT DE MTA:SAM.",
-    "file": "[NG]AC.rar",
+    "file": "NG_AC.rar",
     "image": "assets/anticheat.png"
   },
   {
