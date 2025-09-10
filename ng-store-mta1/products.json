@@ -8,13 +8,3 @@
     "file": "NG_AC.rar",
     "image": "assets/anticheat.png"
   },
-  {
-    "id": "Loteria",
-    "name": "Loteria",
-    "price": 3,
-    "currency": "USD",
-    "description": "Sistema de Loteria Moderna Mas Realista para MTA.",
-    "file": "Loteria.zip",
-    "image": "assets/Loteria.jpg"
-  }
-]
