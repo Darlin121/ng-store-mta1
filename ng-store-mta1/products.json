@@ -1,11 +1,20 @@
 [
   {
     "id": "NG_AC",
-    "name": "NG AC",
+    "name": "NG_AC",
     "price": 25,
     "currency": "USD",
-    "description": "[NG]AC EL MEJOR ANTICHEAT DE MTA:SAM.",
+    "description": "NG_AC EL MEJOR ANTICHEAT DE MTA.",
     "file": "NG_AC.rar",
-    "image": "assets/anticheat.png"
+    "image": "assets/Anticheat.png"
   },
   {
+    "id": "Loteria",
+    "name": "Loteria",
+    "price": 3,
+    "currency": "USD",
+    "description": "Sistema de Loteria Moderna Mas Realista para MTA.",
+    "file": "Loteria.zip",
+    "image": "assets/Loteria.jpg"
+  }
+]
