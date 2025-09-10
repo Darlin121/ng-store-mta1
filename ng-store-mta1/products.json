@@ -5,14 +5,7 @@
     "price": 25,
     "currency": "USD",
     "description": "[NG]AC EL MEJOR ANTICHEAT DE MTA:SAM.",
-    "file": "[NG]AC.zip"
+    "file": "[NG]AC.rar",
+    "image": "assets/anticheat.png"
   },
   {
-    "id": "script2",
-    "name": "Sistema de Mecánico RP",
-    "price": 10,
-    "currency": "USD",
-    "description": "Trabajo de mecánico realista con reparaciones y pagos.",
-    "file": "ejemplo2.zip"
-  }
-]
